@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'dashwebappfromgit'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_63B6D2C298374C4CBDFD9F26D3EAC558 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E70E3B0E21144CCCACCED7A3A95B3FD3 }}
